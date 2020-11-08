@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 
+TOKEN = config.TOKEN
 
 client = commands.Bot(commands_prefix = "prefix-here")
 
@@ -48,5 +49,5 @@ async def unmute(ctx, member = discord.Member):
 	await member.remove_roles(muted_role)
 
 #to get the token, refer to the README File
-client.run("your-bot-token")
+client.run(TOKEN)
 
