@@ -22,5 +22,5 @@
 <li>    <a href = "https://heroku.com"> Heroku </a> </li> 
 <li> <a href = "https://cloud.google.com"> Google Cloud </a> 
 <li> <a href = "https://aws.amazon.com/"> Amazon Web Services </a>
-<li> <a href = "https://us.alibabacloud.com/"> Alibaba Cloud </a> 
+<li> <a href = "https://us.alibabacloud.com/"> Alibaba Cloud </a>
 </p> 
