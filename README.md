@@ -1,10 +1,10 @@
 <h1 align = "center"> Discord Moderation Bot </h1>
 <h4> What this bot does? </h4>
-<p> This bot can perform basic moderation tasks like kick, ban, mute and unmute. You can name it anything you want. 
+<p> This bot can perform basic moderation tasks like kick, ban, mute and unmute. You can name it anything you want. </p> 
 
 
 ### How to get the token
-<p>You have to make an application on <a href = "https://discord.com/developers/applications> Discord Developers Portal </a>. Name it according to your preference. After doing this go to the bot section and create a bot. Now Download the files of the bot from GitHub or clone it using <strong> git</strong>. After Doing this download an code editor. Paste the token in the specified place. The File Shows where to put it!! 
+<p> You have to make an application on <a href = "https://discord.com/developers/applications> Discord Developers Portal </a>. Name it according to your preference. After doing this go to the bot section and create a bot. Now Download the files of the bot from GitHub or clone it using <strong> git</strong>. After Doing this download an code editor. Paste the token in the specified place. The File Shows where to put it!! </p>
 
 ### ID of muted role
 <p> For this you have to enable developer mode in Discord's settings. After that go to your server, make a role named muted and set the permissions of send messages to red or false I hope you know what I am saying. After that right click on the role and then copy it. Paste it in the place where the code says. </p> 
