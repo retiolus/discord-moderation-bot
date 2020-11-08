@@ -1,5 +1,6 @@
 
 <h1 align = "center"> Discord Moderation Bot </h1>
+
 ### What this bot does 
 <p> This bot can perform basic moderation tasks like kick, ban, mute and unmute. You can name it anything you want. </p> 
 
